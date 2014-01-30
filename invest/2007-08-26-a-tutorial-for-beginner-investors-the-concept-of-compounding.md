@@ -1,0 +1,71 @@
+---
+layout: post
+title: "初级投资者指南-组合现象的概念"
+date: 2007-08-26 23:27:12
+comments: true
+categories:
+  - 干过的那些事
+tags:
+  - 初级投资者指南
+  - 需要整理照片
+---
+爱因斯坦说复利是“有史以来最伟大的数学发现”。我们这么认为的部分原因是，不像我们在过去高中时学习的三角学或微积分学，复利能应用到每天的生活中去。
+
+复利（有时叫做“复合利息”）的奇妙处在于能将你工作的钱转化为技术发展水平，高效的收入生产工具。组合是一个通过重投资资产收入来获得另外收入的过程。为了做到这点，它需要两件事：（1）重投资收入（2）和时间。你投资的时间越长，你能从你的原始投入中获得更大利益的可能性就越多，将减轻你的压力。
+
+为了证明，我们来看看下面的例子：
+
+如果你在今天年收益率是6%的情况下投资了$10,000,你在一年后将能获得$10,600($10,000×1.06).现在我们来看看，如果不把这$600利息取出来，而把它和本金放在一起又一年。假设你仍然能够获得6%的年收益，在第二年结束时，你的投资将会增长到$11,236.00($10,600×1.06)。
+
+因为你将那$600重投入，它与原来的本金一起工作，为你赚得了$636,比第一年多了$36。这一点点的收入的增加现在可能只不过像花生一样小，但让我们不要忘记你赚这$36甚至不用举手之劳。更重要的是，这$36有获得利息的能力。等下一年，你的投资将会价值$11,910.16($11,236×1.06)。这次你赚了$674.16，比第一年多了$74.16的利润。这样在总数上的增长使得每年的组合都在进行：利息基于利息来获得利息然后继续…它将一直保持下去只要你继续投资，并获得利润。
+
+#### 尽早开始
+
+有这么两个人，我们叫他们Pam和Sam。Pam和Sam年龄相同。当Pam25岁时，她以年利息5.5%投资了$15,000。为了简单起见，我们假设利息是每年组合的。当Pam50岁时，在她的银行账户里将有$57,200.89($15,000×1.055<sup>25</sup>)。
+
+Pam的朋友，Sam, 直到他到35岁时才开始投资。在那时，她也以每年5.5%的利率投了$15,000.00.当Sam到50岁时，在他的银行账户里将有$33,487($15,000×1.055<sup>15</sup>)。
+
+发生了什么呢？Pam和Sam都50岁，但是Pam在她的存款里却比Sam多了$23,713.74($57,200.89-$33,487.15) 尽管他们投入的都是相同数额的钱！靠让她的投资拥有更多时间去增长，Pam获得了$42,200.89的利息而Sam只获得了$18,487.15。
+
+编者注：到现在，我们必须请你相信这些计算是正确的。在这份指南里我们集中在结果上而不后面的数学计算。(如果你希望学习更多这些数字是如何工作的，请看我们的文章“<a href="http://www.investopedia.com/articles/03/082703.asp" target="_blank">理解钱的时间价值</a>”)。
+
+Pam和Sam的收入比例在下面的图中被表示出来：
+
+<p align="center">
+  <img src="http://lh3.google.com/SharpMark/RtF6RfZE3iI/AAAAAAAABxQ/bQYBhdyXo9Q/s800/beginner_2_1.gif" height="321" width="363" />
+</p>
+
+你能看到，两个投资在开始时都缓慢然后加速，在它们曲线的倾斜度上反映出来的。Pam快到50岁时他的线变得更倾斜，并不是简单因为她累积了更多的利息，而是因为这些累积的利息创造了更多的利息。
+
+Pam的线变得更加倾斜（她的回报的比例增加）在另一个10年里。在她60岁时，在她的银行账户里将近拥有$100,000，而Sam只有$60,000左右，$40,000的差别！
+
+<p align="center">
+  <img src="http://lh4.google.com/SharpMark/RtF7ZvZE3jI/AAAAAAAABxY/ZO5EU4XwlQ0/s800/beginner_2_2.gif" />
+</p>
+
+当你投资时，请记住用复利来扩大你的工作的钱的增长。就像投资能最大化你的收入潜力，组合最大化你投资的收入潜力——但是记住，因为时间和再投资才能让组合有效，所以你必须保证不去动本金和它所获得的那些利润。
+
+───────────────────────────────────
+
+## 目录
+
+[1）简介][1]  
+[2）什么是投资][2]  
+[3）复利计算的基本概念][3]  
+[4）了解你自己][4]  
+[5）为可能遇到的矛盾准备][5]  
+[6）投资种类][6]  
+[7）资产组合与多元化][7]  
+[8）结论][8]  
+───────────────────────────────────
+
+译者：<a href="http://www.cloudwater.net/" target="_blank">cloud</a>, <a href="http://liujiong.com/" title="sharpmark's blog" target="_blank">sharpmark</a>. 转载请注明出处。
+
+ [1]: /blog/posts/a-tutorial-for-beginner-investors-introduction/
+ [2]: /blog/posts/a-tutorial-for-beginner-investors-what-is-investing/
+ [3]: /blog/posts/a-tutorial-for-beginner-investors-the-concept-of-compounding/
+ [4]: /blog/posts/a-tutorial-for-beginner-investors-knowing-yourself/
+ [5]: /blog/posts/a-tutorial-for-beginner-investors-preparing-for-contradictions/
+ [6]: /blog/posts/a-tutorial-for-beginner-investors-types-of-investments/
+ [7]: /blog/posts/a-tutorial-for-beginner-investors-portfolios-and-diversification/
+ [8]: /blog/posts/a-tutorial-for-beginner-investors-conclusion/
