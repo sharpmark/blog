@@ -1,10 +1,8 @@
 ---
-layout: post
-title: "初级投资者指南-什么是投资？"
+layout: page
+title: "什么是投资？"
 date: 2007-08-26 23:28:14
 comments: true
-categories:
-  - 干过的那些事
 tags:
   - 初级投资者指南
 ---
@@ -14,7 +12,7 @@ tags:
 
 所以，因为你不能复制一个自己来增加你的工作时间，你需要将你的附属——你的钱——去工作。这样，当你在为你的老板工作时，或者甚至修剪草坪，睡 觉，读报，或与朋友交际时，你也同样可以在赚钱。非常简单，让你的钱去为最大化你的收益潜力而工作，无论你是否升迁，决定加班，或在寻找一份更高薪的工 作。
 
-投资有非常多种方式。包括将钱投入到<a href="http://www.investopedia.com/terms/s/stock.asp" target="_blank">股票</a>，<a href="http://www.investopedia.com/terms/b/bond.asp" target="_blank">债券</a>，<a href="http://www.investopedia.com/terms/m/mutualfund.asp" target="_blank">基金</a>， 不动产，或者开办一个你自己的生意。有时候，人们喜欢把这些选项说成投资载体，也就是描述“投资方式”的另一种方法。每一种上面的载体都有优点和缺点，我 们将在指南的后面的部分提到这个问题。关键点在于，不无你选择投资的方法是什么，目标总是让你的钱去工作，这样它能让你获得额外的收益。虽然是个简单的原 则，但这是你需要理解的最重要的概念。
+投资有非常多种方式。包括将钱投入到[股票](http://www.investopedia.com/terms/s/stock.asp)，[债券](http://www.investopedia.com/terms/b/bond.asp)，[基金](http://www.investopedia.com/terms/m/mutualfund.asp)，不动产，或者开办一个你自己的生意。有时候，人们喜欢把这些选项说成投资载体，也就是描述“投资方式”的另一种方法。每一种上面的载体都有优点和缺点，我 们将在指南的后面的部分提到这个问题。关键点在于，不无你选择投资的方法是什么，目标总是让你的钱去工作，这样它能让你获得额外的收益。虽然是个简单的原 则，但这是你需要理解的最重要的概念。
 
 #### 投资不是什么
 
@@ -30,27 +28,4 @@ tags:
 
 无论你是生活在美国，加拿大或者其他别的西方工业化国家，政府正在勒紧腰带。基本没有意外，计划退休后如何养老的责任将会从政府转移到个人。关于我 们的养老金是否将会在20，30，或50年里安全的争论有很多。但是为什么不把这当成一个机会？提前计划，你能确保你自己在退休时的经济稳定。（更多关于 退休的内容，请参考指南“退休计划”、加拿大“退休计划导航 Registered Retirement Savings Plan(RRSP)”。）
 
-───────────────────────────────────
-
-## 目录
-
-[1）简介][1]  
-[2）什么是投资][2]  
-[3）复利计算的基本概念][3]  
-[4）了解你自己][4]  
-[5）为可能遇到的矛盾准备][5]  
-[6）投资种类][6]  
-[7）资产组合与多元化][7]  
-[8）结论][8]  
-───────────────────────────────────
-
-译者：<a href="http://www.cloudwater.net/" target="_blank">cloud</a>, <a href="http://liujiong.com/" title="sharpmark's blog" target="_blank">sharpmark</a>. 转载请注明出处。
-
- [1]: /blog/posts/a-tutorial-for-beginner-investors-introduction/
- [2]: /blog/posts/a-tutorial-for-beginner-investors-what-is-investing/
- [3]: /blog/posts/a-tutorial-for-beginner-investors-the-concept-of-compounding/
- [4]: /blog/posts/a-tutorial-for-beginner-investors-knowing-yourself/
- [5]: /blog/posts/a-tutorial-for-beginner-investors-preparing-for-contradictions/
- [6]: /blog/posts/a-tutorial-for-beginner-investors-types-of-investments/
- [7]: /blog/posts/a-tutorial-for-beginner-investors-portfolios-and-diversification/
- [8]: /blog/posts/a-tutorial-for-beginner-investors-conclusion/
+下一节：[3）复利计算的基本概念](/invest/the-concept-of-compounding.html)

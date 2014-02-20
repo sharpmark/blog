@@ -1,10 +1,8 @@
 ---
-layout: post
-title: "初级投资者指南-了解你自己"
+layout: page
+title: "了解你自己"
 date: 2007-08-26 23:22:38
 comments: true
-categories:
-  - 干过的那些事
 tags:
   - 初级投资者指南
 ---
@@ -40,27 +38,4 @@ Peter Lynch,最伟大的投资者之一，曾经说过“对于投资，关键�
 
 如果你不确定当市场波动时你会有何种反应，我们建议一个好的开始：试着去建立一个假的投资组合在免费投资模拟器上，它将在账户中给你$100,000的虚拟货币用来跟踪真实的股票市场。这个模拟的投资经验能真正帮助你知道自己的头脑，你的习惯，和你的容忍度在你真正投资即使是一美元之前。
 
-───────────────────────────────────
-
-## 目录
-
-[1）简介][1]  
-[2）什么是投资][2]  
-[3）复利计算的基本概念][3]  
-[4）了解你自己][4]  
-[5）为可能遇到的矛盾准备][5]  
-[6）投资种类][6]  
-[7）资产组合与多元化][7]  
-[8）结论][8]  
-───────────────────────────────────
-
-译者：<a href="http://www.cloudwater.net/" target="_blank">cloud</a>, <a href="http://liujiong.com/" title="sharpmark's blog" target="_blank">sharpmark</a>. 转载请注明出处。
-
- [1]: /blog/posts/a-tutorial-for-beginner-investors-introduction/
- [2]: /blog/posts/a-tutorial-for-beginner-investors-what-is-investing/
- [3]: /blog/posts/a-tutorial-for-beginner-investors-the-concept-of-compounding/
- [4]: /blog/posts/a-tutorial-for-beginner-investors-knowing-yourself/
- [5]: /blog/posts/a-tutorial-for-beginner-investors-preparing-for-contradictions/
- [6]: /blog/posts/a-tutorial-for-beginner-investors-types-of-investments/
- [7]: /blog/posts/a-tutorial-for-beginner-investors-portfolios-and-diversification/
- [8]: /blog/posts/a-tutorial-for-beginner-investors-conclusion/
+下一节：[5）为可能遇到的矛盾准备](preparing-for-contradictions)

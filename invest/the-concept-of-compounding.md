@@ -1,10 +1,8 @@
 ---
-layout: post
-title: "初级投资者指南-组合现象的概念"
+layout: page
+title: "复利计算的基本概念"
 date: 2007-08-26 23:27:12
 comments: true
-categories:
-  - 干过的那些事
 tags:
   - 初级投资者指南
   - 需要整理照片
@@ -27,45 +25,18 @@ Pam的朋友，Sam, 直到他到35岁时才开始投资。在那时，她也以�
 
 发生了什么呢？Pam和Sam都50岁，但是Pam在她的存款里却比Sam多了$23,713.74($57,200.89-$33,487.15) 尽管他们投入的都是相同数额的钱！靠让她的投资拥有更多时间去增长，Pam获得了$42,200.89的利息而Sam只获得了$18,487.15。
 
-编者注：到现在，我们必须请你相信这些计算是正确的。在这份指南里我们集中在结果上而不后面的数学计算。(如果你希望学习更多这些数字是如何工作的，请看我们的文章“<a href="http://www.investopedia.com/articles/03/082703.asp" target="_blank">理解钱的时间价值</a>”)。
+编者注：到现在，我们必须请你相信这些计算是正确的。在这份指南里我们集中在结果上而不后面的数学计算。(如果你希望学习更多这些数字是如何工作的，请看我们的文章“[理解钱的时间价值](http://www.investopedia.com/articles/03/082703.asp)”)。
 
 Pam和Sam的收入比例在下面的图中被表示出来：
 
-<p align="center">
-  <img src="http://lh3.google.com/SharpMark/RtF6RfZE3iI/AAAAAAAABxQ/bQYBhdyXo9Q/s800/beginner_2_1.gif" height="321" width="363" />
-</p>
+![Pam和Sam的收入比例](http://lh3.google.com/SharpMark/RtF6RfZE3iI/AAAAAAAABxQ/bQYBhdyXo9Q/s800/beginner_2_1.gif)
 
 你能看到，两个投资在开始时都缓慢然后加速，在它们曲线的倾斜度上反映出来的。Pam快到50岁时他的线变得更倾斜，并不是简单因为她累积了更多的利息，而是因为这些累积的利息创造了更多的利息。
 
 Pam的线变得更加倾斜（她的回报的比例增加）在另一个10年里。在她60岁时，在她的银行账户里将近拥有$100,000，而Sam只有$60,000左右，$40,000的差别！
 
-<p align="center">
-  <img src="http://lh4.google.com/SharpMark/RtF7ZvZE3jI/AAAAAAAABxY/ZO5EU4XwlQ0/s800/beginner_2_2.gif" />
-</p>
+![am和Sam的收入比例2](http://lh4.google.com/SharpMark/RtF7ZvZE3jI/AAAAAAAABxY/ZO5EU4XwlQ0/s800/beginner_2_2.gif)
 
 当你投资时，请记住用复利来扩大你的工作的钱的增长。就像投资能最大化你的收入潜力，组合最大化你投资的收入潜力——但是记住，因为时间和再投资才能让组合有效，所以你必须保证不去动本金和它所获得的那些利润。
 
-───────────────────────────────────
-
-## 目录
-
-[1）简介][1]  
-[2）什么是投资][2]  
-[3）复利计算的基本概念][3]  
-[4）了解你自己][4]  
-[5）为可能遇到的矛盾准备][5]  
-[6）投资种类][6]  
-[7）资产组合与多元化][7]  
-[8）结论][8]  
-───────────────────────────────────
-
-译者：<a href="http://www.cloudwater.net/" target="_blank">cloud</a>, <a href="http://liujiong.com/" title="sharpmark's blog" target="_blank">sharpmark</a>. 转载请注明出处。
-
- [1]: /blog/posts/a-tutorial-for-beginner-investors-introduction/
- [2]: /blog/posts/a-tutorial-for-beginner-investors-what-is-investing/
- [3]: /blog/posts/a-tutorial-for-beginner-investors-the-concept-of-compounding/
- [4]: /blog/posts/a-tutorial-for-beginner-investors-knowing-yourself/
- [5]: /blog/posts/a-tutorial-for-beginner-investors-preparing-for-contradictions/
- [6]: /blog/posts/a-tutorial-for-beginner-investors-types-of-investments/
- [7]: /blog/posts/a-tutorial-for-beginner-investors-portfolios-and-diversification/
- [8]: /blog/posts/a-tutorial-for-beginner-investors-conclusion/
+下一节：[4）了解你自己](/invest/knowing-yourself.html)

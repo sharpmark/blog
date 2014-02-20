@@ -1,26 +1,44 @@
 ---
-title: 字符转转转 TextualPhoto
-author: sharpmark
+title: 字符转转转
 layout: page
 ---
-# 字符转转转 Texture Photo
 
-<span style="font-weight: bold">项目说明</span>：字符与图像的转化程序  
-<span style="font-weight: bold">最新版本</span>：0.2.2  
-<span style="font-weight: bold">开发语言</span>：C#, .net framework 2.0  
-<span style="font-weight: bold">软件平台</span>：Windows, .net framework 2.0  
-<span style="font-weight: bold">编写目的</span>：C#习作。灵感来自当年的“灌水之王”。  
-<span style="font-weight: bold">软件说明</span>：将图像、文字转化成字符阵列形式的小软件。本软件将一个图像文件转化成一组字符阵列，这个字符阵列能够从整体上反映出图像的大致图样。可用在论坛、Blog等处的适用的纯文本图像。并支持文字到字符阵列、图像到彩色网页形式转化。  
-系统需求  
-<span style="font-weight: bold">下载地址</span>：  
-[本地下载][1]  
-[Google Pages下载][2]  
-<span style="font-weight: bold">更新日志</span>：  
-[点击查看所有关于TextualPhoto的文章][3]  
-<span style="font-weight: bold">参考资料</span>：none  
-<span style="font-weight: bold">版权声明</span>：  
-自由软件。
+## 项目介绍
+### 项目说明
+字符与图像的转化程序。
 
- [1]: http://sharpmark.yo2.cn/wp-content/uploads/25/2575/2007/04/project_textualphoto_022_release.zip "TextualPhoto 0.2.2"
- [2]: http://sharpmark.googlepages.com/project_textualphoto_0.2.2_Release.zip
- [3]: /posts/category/work/authorship-software/textual-photo/
+将图像、文字转化成字符阵列形式的小软件。本软件将一个图像文件转化成一组字符阵列，这个字符阵列能够从整体上反映出图像的大致图样。可用在论坛、Blog等处的适用的纯文本图像。并支持文字到字符阵列、图像到彩色网页形式转化。
+
+C#习作。灵感来自当年的“灌水之王”。
+
+### 最新版本及下载
+- **本地下载**：0.2.1-release-2006-03-25 (暂不提供)
+
+### 使用环境
+- **软件平台**：Windows XP+, .net framework 2.0+
+- **开发语言**：C#, .net framework 2.0
+
+### 版权声明
+本软件为自由软件
+
+## 更新日志
+
+### 0.2.1 2006-03-25 What's new:
+-  修改了文字转化文字的内核，使得文字显示的更加准确和精细。
+-  文字转化还支持支持字符串操作。
+-  支持文字竖排，中文字模等功能。
+-  图像转HTML形式支持设定字体格式。包括字号、字体、效果等。
+-  修改了软件关闭的时候不删除colorfulphoto.htm的Bug。
+
+### 0.2.0 2006-03-23 What's new:
+-  提供了图像转化成彩色字符阵列的功能，格式为HTML。
+-  修改了程序界面，使之方便实用。
+-  添加了生成字符序列的保存功能。
+-  提供了生成HTML的相关设置。
+
+### 0.1.0 2006-03-19 What's new:
+-  提供图像转化成字符阵列功能。
+-  提供字符转化成字符阵列功能。
+-  图像转化时按比例伸缩或自定义调节。
+-  图像转化支持2、8、94三种灰度级别，并支持反色。
+-  文字转化支持不同字体、粗体、斜体、下划线等。
