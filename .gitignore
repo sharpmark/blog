@@ -8,3 +8,7 @@ javascripts/
 robots.txt
 stylesheets/
 atom.xml
+
+*.plist
+
+_posts/.UlyssesRoot
