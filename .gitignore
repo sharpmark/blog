@@ -1,14 +1,3 @@
-_includes/
-_layouts/
-assets/
-favicon.png
-images/
-index.html
-javascripts/
-robots.txt
-stylesheets/
-atom.xml
-
 *.plist
-
-_posts/.UlyssesRoot
+*.UlyssesRoot
+*.DS_Store
