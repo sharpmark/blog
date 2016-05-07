@@ -5,7 +5,7 @@ date: 2016-04-15 23:00
 comments: true
 published: true
 categories:
-  - 产品和技术
+  - 挨踢程序产品猿
 ---
 
 之前聊了[皇室战争的节奏感](http://liujiong.com/posts/clash-royale-tempo/)，文末提到了节奏感在产品方向也有价值，这次就聊聊产品的节奏感。

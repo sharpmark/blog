@@ -5,7 +5,7 @@ date: 2016-04-23 23:00
 comments: true
 published: true
 categories:
-  - 产品和技术
+  - 挨踢程序产品猿
 ---
 
 之前聊了[产品的节奏感](http://liujiong.com/posts/product-tempo-1/)，有人问如何为自己的产品设定节奏呢？这样取决于你的产品形态，市场阶段和用户需求。

@@ -5,7 +5,7 @@ date: 2016-04-09 18:00
 comments: true
 published: true
 categories:
-  - 产品和技术
+  - 挨踢程序产品猿
 ---
 
 起因是我近日对 [Atom 编辑器](https://atom.io/)的架构好奇，就去读了 Atom 和 Electron 的诞生历程。然后顺藤摸瓜的撸了 Node.js 等一些新的技术介绍，发觉 JavaScript 已经不是 20 年前的毛头小伙了……。它的触角已经伸展到几乎所有的编程领域，成了名副其实的万金油。本文就简单梳理一下我这几天看的无所不能的 JavaScript。
